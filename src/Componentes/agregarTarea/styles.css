@@ -1,0 +1,16 @@
+.th{
+   
+    color:rgb(198, 94, 34);
+    border-width: 2px;
+    border-color: blue;
+}
+
+.td{
+border-width: 2px;
+border-color:blue    
+}
+
+.dtl{
+    background: none;
+    border: none;
+}
